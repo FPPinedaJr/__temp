@@ -10,13 +10,14 @@ Welcome Adventurer! Your aim is to navigate a **2D array maze** and reach the fi
 
 The Maze array will look like
 ```c
-maze = [[1,1,1,1,1,1,1],
-        [1,0,0,0,0,0,3],
-        [1,0,1,0,1,0,1],
-        [0,0,1,0,0,0,1],
-        [1,0,1,0,1,0,1],
-        [1,0,0,0,0,0,1],
-        [1,2,1,0,1,0,1]]
+maze = [[1, 1, 1, 1, 1, 1, 1]
+        [1, 0, 0, 0, 0, 0, 0]
+        [1, 0, 1, 0, 1, 0, 1]
+        [1, 0, 0, 1, 1, 0, 1]
+        [1, 0, 1, 0, 1, 3, 1]
+        [1, 0, 1, 0, 1, 0, 1]
+        [1, 2, 0, 0, 0, 0, 0]
+        [1, 1, 1, 1, 1, 1, 1]]
 ```
 
 
@@ -50,7 +51,6 @@ Your task is to follow the directions in the order provided:
 
 ### Sample Code
 
----
 
 #### Example Usage
 
