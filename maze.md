@@ -50,10 +50,6 @@ Your task is to follow the directions in the order provided:
 ---
 
 ### Sample Code
-
-
-#### Example Usage
-
 ```c
 #include <your_header>
 
