@@ -2,10 +2,7 @@
 
 
 ### Introduction
-```
 Welcome Adventurer! Your aim is to navigate a **2D array maze** and reach the finish point without touching any walls. Touching a wall will kill you instantly, and stepping outside the maze boundaries will also result in death.
-```
----
 
 ### Task
 
